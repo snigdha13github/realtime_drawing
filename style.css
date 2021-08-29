@@ -1,0 +1,35 @@
+.heading
+{
+    font-size: 30px;
+    font-family: Cochin;
+    text-shadow: 15px 15px 20px black;
+    margin-top: 0px;
+    box-shadow: 15px 15px 20px purple;
+    width: 100%;
+}
+body
+{
+    background-color: pink;
+}
+#size
+{
+    font-size: 25px;
+    font-weight: bold;
+}
+.note
+{
+    font-size: 20px;
+}
+.footer
+{
+    width: 100%;
+    bottom: 0;
+    text-align: center;
+    position:fixed;
+    background-color: purple;
+    color:yellow;
+}
+canvas
+{
+    border: 5px solid gray;
+}
